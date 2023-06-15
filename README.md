@@ -5,7 +5,7 @@ A simple password generator, allowing the user to choose a password length and s
 
 <!-- NEED TO UPDATE LINK -->
 ## Website Link
-[Link to website](https://katyjmt.github.io/week2-challenge-portfolio/)
+[Link to website](https://katyjmt.github.io/week3-challenge-passwordGenerator/)
 
 ## Screenshot
 ![Screenshot of the website](./assets/password-generator-screenshot.png)
